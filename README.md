@@ -63,19 +63,6 @@ Through my company **[TapCards LLC](https://tapcards.in)** I design, build, and 
 
 ---
 
-## 📊 GitHub stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Paritosh114&show_icons=true&hide_border=true&title_color=7C3AED&icon_color=7C3AED&text_color=c9d1d9&bg_color=0d1117" alt="GitHub stats" />
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paritosh114&layout=compact&hide_border=true&title_color=7C3AED&text_color=c9d1d9&bg_color=0d1117" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Paritosh114&hide_border=true&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED&background=0d1117&stroke=c9d1d9&dates=c9d1d9&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dayLabels=c9d1d9&titleColor=7C3AED" alt="GitHub streak" />
-</p>
-
----
-
 ## 🤝 Connect
 
 <p align="center">
