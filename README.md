@@ -1,109 +1,86 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&height=60&lines=Hi%2C+I'm+Paritosh+%F0%9F%91%8B;Student+Founder+%7C+Builder+%7C+Full-Stack+Developer;Building+SaaS%2C+Automation+%26+Business+Software" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=7C3AED&center=true&vCenter=true&width=720&height=60&lines=Hi%2C+I'm+Paritosh+%F0%9F%91%8B;Student+Founder+%7C+Full-Stack+Developer;I+build+%26+ship+real+products;SaaS+%7C+E-commerce+%7C+Web+%26+AR" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Student-Founder-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Full-Stack-Developer-22C55E?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/SaaS-Builder-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI-Automation-F59E0B?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Full--Stack-Developer-22C55E?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/SaaS-Builder-0EA5E9?style=for-the-badge&logo=rocket&logoColor=white" />
+  <img src="https://img.shields.io/badge/Univ.-Liverpool-F59E0B?style=for-the-badge&logo=googlescholar&logoColor=white" />
 </p>
 
 <h3 align="center">I build products, systems, and businesses from scratch.</h3>
 
 <p align="center">
-  I’m a <b>student founder</b> and <b>self-taught full-stack developer</b> building real-world software products while learning through execution.
+  I'm a <b>student founder</b> and <b>full-stack developer</b> who ships real-world software — and learns by building it.
 </p>
 
 ---
 
-## 👋 About Me
+## 👋 About me
 
-I started building when I had no roadmap, no safety net, and no idea what I was doing — and that was the best part.
+Through my company **[TapCards LLC](https://tapcards.in)** I design, build, and run live products end-to-end — **backend, frontend, deployment, and growth**. I like owning the whole stack and the part where I'm pushed past my comfort zone and have to figure it out while building anyway.
 
-I love solving hard problems under pressure, learning by shipping, and turning ideas into products that actually work.
-
-Right now, I’m building the TapCards ecosystem:
-- SaaS products
-- business automation
-- custom software
-- AI workflow tools
-- lead generation systems
-
-I enjoy the part where I’m pushed beyond my comfort zone and forced to learn, adapt, and build anyway.
+- 🚀 I build complete products, not just features — database → UI → live.
+- 🧩 Day-to-day in **PHP/Laravel, WordPress/WooCommerce, JavaScript & 3D (Three.js)**.
+- 📈 I care about what happens after launch — **performance, SEO, and conversion**.
+- 🤖 Into **automation & AI workflows** (WhatsApp/social automation, auto-content).
+- 🎓 Studying at the **University of Liverpool**.
 
 ---
 
-## 🚀 What I Build
+## 🚀 Featured projects
 
-### TapCards
-A networking and digital identity ecosystem for businesses and professionals.
+| Project | What it is | Tech |
+| --- | --- | --- |
+| 💬 **Connect** — [live](https://connect.tapcardss.com) | WhatsApp marketing & automation platform: bulk campaigns, chatbots, a live team inbox, WooCommerce abandoned-cart recovery & order automations, and a public REST API. | PHP · Laravel · Node.js · MySQL |
+| 📅 **Flow** — [live](https://flow.tapcardss.com) | AI social-media scheduler & automation: multi-platform publishing (FB/IG/X/LinkedIn), AI captions & images, analytics, and an auto-blogging engine. | PHP · Laravel · AI APIs |
+| 🏍️ **TorqueX** — [live](https://torquexbike.com) | Performance-tuned WooCommerce store: 1,000+ products, custom design system, Core Web Vitals work, full SEO & schema. | WordPress · WooCommerce · PHP |
+| 👁️ **ClearSight AI** — [demo](https://paritosh114.github.io/clearsight-ai/) · [code](https://github.com/Paritosh114/clearsight-ai) | Interactive **AR** experience for diabetic-retinopathy awareness: a procedural 3D eye you rotate, open to reveal the retina, and step inside in AR. | Three.js · WebXR · Vanilla JS |
+| 💳 **TapCards** — [site](https://tapcards.in) | Digital business-card & networking platform for personal branding, business identity, and lead capture. | PHP · MySQL |
+| 🗂️ **Workspace** | Business workspace / dashboard for operations, management, and internal workflows. | PHP · Laravel · MySQL |
 
-### TapCards SaaS
-A vCard / digital business card platform for personal branding, business identity, and lead capture.
-
-### Workspace
-A business workspace / dashboard platform for operations, management, and internal workflows.
-
-### Flow
-AI-powered automation for posting, outreach, workflows, and business operations.
-
-### Lead Generation Systems
-WhatsApp automation, outreach flows, lead capture systems, and workflow-based growth tools.
+> 📝 Detailed case studies (architecture, screenshots, results) coming to pinned repos.
 
 ---
 
-## 🧠 Tech Stack
+## 🧠 Tech & tools
 
 <p align="left">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI%20Automation-FF6B6B?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Custom%20Software-8B5CF6?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
 ---
 
-## 🎯 Current Focus
-
-- Scaling the TapCards ecosystem
-- Building SaaS experiences with real business value
-- Improving product engineering and product thinking
-- Developing AI-powered automation workflows
-- Turning ideas into working, useful products
-
----
-
-## 💡 Why I Build
-
-Because I love turning uncertainty into execution.
-
-I don’t just want to code — I want to build systems that solve real problems, create value, and evolve into something meaningful.
-
-The best part is not the comfort of learning — it’s the challenge of figuring it out while building.
-
----
-
-## 🌐 Links
-
-- Website: https://tapcards.in
-- LinkedIn: https://www.linkedin.com/in/paritoshkanada/
-- GitHub: https://github.com/Paritosh114
-
----
-
-## 🧩 Motto
-
-> Build. Learn. Ship. Repeat.
-
----
+## 📊 GitHub stats
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Paritosh114&label=Profile%20Views&color=7C3AED&style=flat-square" alt="Profile Views" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Paritosh114&show_icons=true&hide_border=true&title_color=7C3AED&icon_color=7C3AED&text_color=c9d1d9&bg_color=0d1117" alt="GitHub stats" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paritosh114&layout=compact&hide_border=true&title_color=7C3AED&text_color=c9d1d9&bg_color=0d1117" alt="Top languages" />
 </p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Paritosh114&hide_border=true&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED&background=0d1117&stroke=c9d1d9&dates=c9d1d9&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dayLabels=c9d1d9&titleColor=7C3AED" alt="GitHub streak" />
+</p>
+
+---
+
+## 🤝 Connect
+
+<p align="center">
+  <a href="https://tapcards.in"><img src="https://img.shields.io/badge/Website-tapcards.in-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/paritoshkanada/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+<p align="center"><i>Build. Learn. Ship. Repeat. — open to good opportunities and collaborations.</i></p>
