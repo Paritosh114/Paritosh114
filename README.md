@@ -33,14 +33,14 @@ Through my company **[TapCards LLC](https://tapcards.in)** I design, build, and 
 
 | Project | What it is | Tech |
 | --- | --- | --- |
-| 💬 **Connect** — [live](https://connect.tapcardss.com) | WhatsApp marketing & automation platform: bulk campaigns, chatbots, a live team inbox, WooCommerce abandoned-cart recovery & order automations, and a public REST API. | PHP · Laravel · Node.js · MySQL |
-| 📅 **Flow** — [live](https://flow.tapcardss.com) | AI social-media scheduler & automation: multi-platform publishing (FB/IG/X/LinkedIn), AI captions & images, analytics, and an auto-blogging engine. | PHP · Laravel · AI APIs |
-| 🏍️ **TorqueX** — [live](https://torquexbike.com) | Performance-tuned WooCommerce store: 1,000+ products, custom design system, Core Web Vitals work, full SEO & schema. | WordPress · WooCommerce · PHP |
+| 💬 **Connect** — [live](https://connect.tapcardss.com) · [case study](https://github.com/Paritosh114/connect-whatsapp-platform) | WhatsApp marketing & automation platform: bulk campaigns, chatbots, a live team inbox, WooCommerce abandoned-cart recovery & order automations, and a public REST API. | PHP · Laravel · Node.js · MySQL |
+| 📅 **Flow** — [live](https://flow.tapcardss.com) · [case study](https://github.com/Paritosh114/flow-ai-scheduler) | AI social-media scheduler & automation: multi-platform publishing (FB/IG/X/LinkedIn), AI captions & images, analytics, and an automated SEO blog engine. | PHP · Laravel · AI APIs |
+| 🏍️ **TorqueX** — [live](https://torquexbike.com) · [case study](https://github.com/Paritosh114/torquex-store) | Performance-tuned WooCommerce store: 1,000+ products, custom design system, WebP delivery, full SEO & schema. | WordPress · WooCommerce · PHP |
 | 👁️ **ClearSight AI** — [demo](https://paritosh114.github.io/clearsight-ai/) · [code](https://github.com/Paritosh114/clearsight-ai) | Interactive **AR** experience for diabetic-retinopathy awareness: a procedural 3D eye you rotate, open to reveal the retina, and step inside in AR. | Three.js · WebXR · Vanilla JS |
-| 💳 **TapCards** — [site](https://tapcards.in) | Digital business-card & networking platform for personal branding, business identity, and lead capture. | PHP · MySQL |
-| 🗂️ **Workspace** | Business workspace / dashboard for operations, management, and internal workflows. | PHP · Laravel · MySQL |
+| 🎨 **TapCards Studio** — [live](https://tapcards.in) · [case study](https://github.com/Paritosh114/tapcards-studio) | The studio's brand site — a hand-coded WordPress block theme (no page builder) with GSAP/canvas motion and technical SEO. | WordPress · PHP · GSAP |
+| 🗂️ **Workspace** — [live](https://workspace.tapcardss.com) · [case study](https://github.com/Paritosh114/workspace-suite) | All-in-one business suite: Projects, Accounting, HRM, CRM, POS & Products in one dashboard. | PHP · Laravel · MySQL |
 
-> 📝 Detailed case studies (architecture, screenshots, results) coming to pinned repos.
+> 📝 Each project has a case-study repo with screenshots, features, and the engineering behind it — click the links above.
 
 ---
 
